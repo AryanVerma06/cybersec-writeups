@@ -8,7 +8,7 @@ Hands-on writeups from CTF machines and security labs (VulnHub, HackTheBox, TryH
 
 | Machine | Platform | Difficulty | Flags | Date |
 |--------|----------|------------|--------|------|
-| [Mr. Robot](./Mr-Robot/writeup.md) | VulnHub | Medium | 3/3 ✅ | Feb 2024 |
+| [Mr. Robot](./Mr-Robot/writeup.md) | VulnHub | Medium | 3/3 ✅ | August 2025 |
 
 ---
 
